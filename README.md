@@ -38,7 +38,7 @@ copy_from.sh user_name access_key > file_name
 
 ## ライセンス
 
-Copyright (c) Kazuhiko UNO
+Copyright (c) 2015 Kazuhiko UNO
 以下の条件を満たす限り、自由な複製・配布・修正を無制限に許可する。
   * 上記の著作権表示と本許諾書を、ソフトウェアの複製または重要な部分に記載する
   * 本ソフトウェアは無保証である。自己責任で使用する。
