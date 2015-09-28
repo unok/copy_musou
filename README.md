@@ -15,16 +15,21 @@ index.php の上部のコメント部分に DDL が書かれています。
 
 ### クライアント
 
-  copy_to.sh user_name access_key < file_name
-  
-  copy_from.sh user_name access_key > file_name
+````
+copy_to.sh user_name access_key < file_name
+````
+
+````
+copy_from.sh user_name access_key > file_name
+````
 
 ## 動作環境
 
 ### サーバー
 
   * PHP 5.6.x
-    * PHP-mcrypt
+    * mcrypt
+    * PDO Sqlite
 
 ### クライアント
 
