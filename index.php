@@ -48,8 +48,6 @@ if (!empty($salt_tmp)) {
     $SALT = $salt_tmp;
 }
 
-error_log($SALT);
-
 /**
  * EasyCrypt
  *
